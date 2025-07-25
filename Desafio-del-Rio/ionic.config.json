@@ -1,0 +1,7 @@
+{
+  "name": "Desafio-del-Rio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
