@@ -1,2 +1,2 @@
-# Desafio-del-Rio-El-lobo-la-cabra-y-las-coles
+# River Rush
 Juego de Desafío Lógico
