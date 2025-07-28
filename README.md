@@ -1,6 +1,6 @@
 # 🛶 River Rush 
 
-**River Rush** es un juego lógico básico interactivo desarrollado con **Ionic React**, donde deberás ayudar a un granjero a cruzar un río con su lobo 🐺, su cabra 🐐 y sus coles 🌽, sin que nadie se coma a nadie.
+**River Rush** es un juego lógico básico  desarrollado con **Ionic React**, donde tendrás que ayudar a un granjero a cruzar un río con su lobo 🐺, su cabra 🐐 y sus coles 🌽, sin que nadie se coma a nadie.
 
 ---
 
